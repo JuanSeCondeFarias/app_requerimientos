@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "prueba-form",
-    "slug": "prueba-form",
+    "name": "app_requerimientos",
+    "slug": "app_requerimientos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
